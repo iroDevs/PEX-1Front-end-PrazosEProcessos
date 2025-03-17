@@ -21,10 +21,15 @@
  --gray-100: #F2F2F2;
 
 
+ --white: #FFFFFF;
+
+
 
 
  /* Feedback */
-  --danger: "#E25858"
+  --danger: "#E25858";
+  --warning: "#F2C94C";
+  --success: "#27AE60";
 }
 
 :focus {
